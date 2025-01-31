@@ -1,0 +1,10 @@
+TimeStamp (time_t),Type,Entity WALLET ID,EntityName ((char[]),DocumentType ((char[]),Message
+29/11/2023-15:33:56,R,33ce29810c0,Facebook,eIdentity,Minimum requirement for an account in EU is a name and date of birth
+30/11/2023-16:01:22,S,33ce29810c0,Facebook,eIdentity,Name: EnterYourName; Date of Birth:07-07-1975
+30/11/2023-17:11:05,R,23bd14810c0,University of Zurich,University of Dublin Award,Please send proof of your honours degree
+30/11/2023-17:17:09,S,23bd14810c0,University of Zurich,University of Dublin Award,Type:BA; Class:2
+01/12/2023-16:48:18,S,13ca13910b2,Switzerland Passport Control,Passport,Country: USA; Issue Date: 11/09/2021; Expiry Date: 11/09/2031
+05/01/2024-11:08:07,R,23bd14810c0,Car Hire Company,Driving License,Please prove you have a licence
+08/01/2024-13:21:01,R,24bd25820c1,Paddy Power,eIdentity,Proof of Age required for gambling
+08/01/2024-15:11:00,R,13cd14810c4,Insurance Company,Driving License,Evidence of van driving permit required
+08/01/2024-17:21:00,R,13cd14810c4,Insurance Company,Driving License,Proof of 10 points or more required for reduced insurance 
